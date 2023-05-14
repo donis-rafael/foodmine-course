@@ -1,3 +1,8 @@
+## Guía de aprendizaje
+Título | Enlace | Descripción
+---|---|---
+*The Ultimate Angular and Nodejs Tutorial For Beginners* | https://www.youtube.com/watch?v=NFh9WEH0Zi4 | Angular and Node ECommerce Course 2022 - Build Full ECommerce Website By Angular, Nodejs, and Mongodb For All Level Developers
+
 ## Lessons
 1. Introduction to the course
 2. Install development tools
@@ -9,7 +14,7 @@
     1. Generate component
     2. Add HTML
     3. Add CSS
-    ---------------
+---------------
 5. List Foods
   1. Create Food Model
   2. Create data.ts
