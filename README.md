@@ -14,6 +14,7 @@ Título | Enlace | Descripción
     1. Generate component
     2. Add HTML
     3. Add CSS
+
 ---------------
 5. List Foods
   1. Create Food Model
@@ -25,3 +26,15 @@ Título | Enlace | Descripción
     1. Add ts
     2. Add HTML
     3. Add CSS
+
+---------------
+6. Search
+  1. Add method to Food service
+  2. Add search route
+  3. Show search result in Home component
+  4. Generate search component
+    1. Add to home component
+    2. Add ts
+    3. Add HTML
+    4. Add CSS
+    
