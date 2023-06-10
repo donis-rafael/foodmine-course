@@ -73,3 +73,14 @@ Título | Enlace | Descripción
     2. Add ts
     3. Add HTML
     4. Add CSS
+
+---------------
+10. Not Found!
+  1. Generate components
+    1. Add ts
+    2. Add HTML
+    3. Add CSS
+  2. Add to Pages
+    1. Home Page
+    2. Food Page
+    3. Cart Page
