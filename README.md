@@ -2,8 +2,8 @@
 
 # Rafael Morales
 
-Desarrollo de **frontend** en *Angular*
-Desarrollo de **backend** en *NodeJs*
+* Desarrollo de **frontend** en *Angular*
+* Desarrollo de **backend** en *NodeJs*
 
 ## Descripción de proyecto
 Este es un proyecto tipo ECommerce que fue realizado como continuación de un proceso de aprendizaje, este proyecto contiene funciones más avanzadas de Angular, como la creación de diferentes componentes principales como auxiliares, manejo de servicios y consumo de un backend, en la parte inferior de este apartado se encuentra la fuente de aprendizaje y el proceso que se llevó a cabo y al cual se llegó en el desarrollo del mismo.
