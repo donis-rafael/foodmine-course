@@ -1,4 +1,21 @@
+# Proyecto Avanzado de Angular
+
+# Rafael Morales
+
+Desarrollo de **frontend** en *Angular*
+
+## Descripción de proyecto
+Este es un proyecto tipo ECommerce que fue realizado como continuación de un proceso de aprendizaje, este proyecto contiene funciones más avanzadas de Angular, como la creación de diferentes componentes principales como auxiliares, manejo de servicios y consumo de un backend, en la parte inferior de este apartado se encuentra la fuente de aprendizaje y el proceso que se llevó a cabo y al cual se llegó en el desarrollo del mismo.
+
+******
+
+El código fuente se encuentra en la rama **dev** del repositorio: [Proyecto Avanzado de Angular](https://github.com/donis-rafael/foodmine-course/tree/dev)
+
+******
+******
+
 ## Guía de aprendizaje
+
 Título | Enlace | Descripción
 ---|---|---
 *The Ultimate Angular and Nodejs Tutorial For Beginners* | https://www.youtube.com/watch?v=NFh9WEH0Zi4 | Angular and Node ECommerce Course 2022 - Build Full ECommerce Website By Angular, Nodejs, and Mongodb For All Level Developers
